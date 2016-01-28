@@ -3,7 +3,7 @@ Author :	Ying Fang Lee
 Date:		December 2015
 Description:	This program is part of our senior capstone project called MERA Pill Dispenser in which
 				we used a Raspberry Pi 2 to dispense specified pills with user input from our web interface.
-				flow.py is the main program on the Raspberry Pi 2 which regulates the dispense schedule using
+				main.py is the main program on the Raspberry Pi 2 which regulates the dispense schedule using
 				a heap (priority queue). 
 """
 
