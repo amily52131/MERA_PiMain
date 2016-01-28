@@ -3,7 +3,7 @@ Author:			Ying Fang Lee
 Date:			December 2015
 Description:	This program is part of our senior capstone project called MERA Pill Dispenser in which
 				we used a Raspberry Pi 2 to dispense specified pills with user input from our web interface.
-				dispenser.py contains the main classes used for flow.py which is the main program on the Pi. Dispenser, Container, and Dispense_Heap.
+				dispenser.py contains the main classes used for the main program on the Pi: Dispenser, Container, and Dispense_Heap.
 				Dispenser Class contains information of the Raspberry Pi.
 				Container Class contains information of individual containers that is connected to the Pi.
 				Dispense_Heap is the class that regulates the dispensing schedule.
