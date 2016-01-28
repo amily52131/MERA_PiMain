@@ -1,5 +1,5 @@
 """
-Created by Anahi Garnelo 
+Created by Anahi Garnelo (https://github.com/agarnelo)
 modified by Ying Fang Lee
 original function name is JSONHTTPRequest.py
 
