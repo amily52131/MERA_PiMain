@@ -31,7 +31,7 @@ Containers = {}
 
 def fetchContainers():
 	#VARIABLES TO BE CHANGED (FIRST LINE)
-	sqliteDB = 'C:\Users\yfle\Documents\GitHub\MeraRaspberryPi/PiDatabase'
+	sqliteDB = 'path to SQLite database'
 
 	#Check if the database Exists
 	if os.path.isfile(sqliteDB):
